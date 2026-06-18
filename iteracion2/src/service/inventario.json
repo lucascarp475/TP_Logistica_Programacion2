@@ -1,0 +1,34 @@
+[
+  {
+    "id": "P1",
+    "peso": 10,
+    "destino": "Cordoba",
+	"zonaDestino": "Norte",
+    "contenido": "Libro",
+    "urgente": false
+  },
+  {
+    "id": "P2",
+    "peso": 60,
+    "destino": "Mar del Plata",
+	"zonaDestino": "Centro",
+    "contenido": "Laptop",
+    "urgente": true
+  },
+  {
+    "id": "P3",
+    "peso": 40,
+    "destino": "CABA",
+	"zonaDestino": "Sur",
+    "contenido": "Tablet",
+    "urgente": false
+  },
+  {
+    "id": "P4",
+    "peso": 20,
+    "destino": "Rosario",
+	"zonaDestino": "Otro",
+    "contenido": "Ropa",
+    "urgente": false
+  }
+]
